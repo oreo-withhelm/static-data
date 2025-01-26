@@ -1,1 +1,1 @@
-http://57.129.134.144/translate
+http://57.129.134.144:3001/translate
